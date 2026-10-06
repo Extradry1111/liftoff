@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/hero.png" alt="liftoff: Grok Bot templates people keep using, built for Grok Bot Creator Rewards" width="100%">
+  <img src="media/hero.jpg" alt="liftoff: Grok Bot in brushed metal, framed by playful 3D objects" width="100%">
 </p>
 
 <p align="center">
@@ -31,6 +31,8 @@ The terms name what the payouts are based on: **how many people use your templat
 Most people will build what's easy to build. A logo generator or a bio writer gets copied, used once and forgotten. Some will also ship their API keys inside the share link, because templates copy your instructions, skills and routines **exactly as written**.
 
 ## 💡 What liftoff does
+
+<img src="media/grok-bot-3d.jpg" alt="Grok Bot in brushed metal" width="220" align="right">
 
 | Tool | What it tells you |
 |---|---|
@@ -156,6 +158,8 @@ jobs:
 
 ## 🚀 The SpaceX launch desk
 
+<p align="center"><img src="media/rocket.jpg" alt="A stainless rocket clearing the launch tower at night" width="100%"></p>
+
 `liftoff/templates/liftoff-spacex/` is ready to use:
 
 | Routine | When | Sends |
@@ -195,7 +199,7 @@ liftoff/                     ← the skill (install this folder)
   examples/                  logo-bot (5) → logo-bot-v2 (100), leaky-bot (4 leaks)
 tests/                       15 tests: python3 -m unittest discover tests
 dist/liftoff.skill           installable package
-media/                       demo GIFs + MP4s rendered from real runs
+media/                       demo GIFs + MP4s from real runs, 3D renders (Blender Cycles)
 ```
 
 ## 🤝 Contributing
